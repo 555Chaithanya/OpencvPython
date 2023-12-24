@@ -1,3 +1,4 @@
+pycharm: 2023.3.1
 python: 3.7.0
 opencv-python: 4.2.0.32
 numpy: 1.21.6
